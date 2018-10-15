@@ -1,0 +1,9 @@
+C:\Users\LeiShi\Desktop\A_Start\A_Start\bin\Debug\A_Start.exe.config
+C:\Users\LeiShi\Desktop\A_Start\A_Start\bin\Debug\A_Start.exe
+C:\Users\LeiShi\Desktop\A_Start\A_Start\bin\Debug\A_Start.pdb
+C:\Users\LeiShi\Desktop\A_Start\A_Start\obj\Debug\A_Start.csprojResolveAssemblyReference.cache
+C:\Users\LeiShi\Desktop\A_Start\A_Start\obj\Debug\A_Start.Form1.resources
+C:\Users\LeiShi\Desktop\A_Start\A_Start\obj\Debug\A_Start.Properties.Resources.resources
+C:\Users\LeiShi\Desktop\A_Start\A_Start\obj\Debug\A_Start.csproj.GenerateResource.Cache
+C:\Users\LeiShi\Desktop\A_Start\A_Start\obj\Debug\A_Start.exe
+C:\Users\LeiShi\Desktop\A_Start\A_Start\obj\Debug\A_Start.pdb
