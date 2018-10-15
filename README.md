@@ -10,7 +10,7 @@ A*自动寻路算法
   
   - `路径排序(Path Sorting)`：具体往哪个节点移动由以下公式确定：`F(n) = G + H`. G代表的是从初始位置A沿着已生成的路径到指定待检测格子的移动开销, H指定待测格子到目标节点B的估计移动开销.
   
-  - `发函数(Heuristics Function)`：H为启发函数,也被认为是一种试探,由于在找到唯一路径前,我们不确定在前面会出现什么障碍物,因此用了一种计算H的算法,具体根据实际场景决定.在我们简化的模型中, H采用的是传统的`曼哈顿距离(Manhattan Distance)`,也就是横纵向走的距离之和.
+  - `启发函数(Heuristics Function)`：H为启发函数,也被认为是一种试探,由于在找到唯一路径前,我们不确定在前面会出现什么障碍物,因此用了一种计算H的算法,具体根据实际场景决定.在我们简化的模型中, H采用的是传统的`曼哈顿距离(Manhattan Distance)`,也就是横纵向走的距离之和.
 
   ![Image text](https://github.com/Perry961002/Dynamic_Demonstration_Of_A-Start_Algorithm/blob/master/AStart.png?raw=true)
   
