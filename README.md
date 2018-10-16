@@ -1,5 +1,7 @@
 A*自动寻路算法
 =======================================================
+[![MIT license](https://img.shields.io/dub/l/vibe-d.svg)](https://github.com/Perry961002/Dynamic_Demonstration_Of_A-Start_Algorithm/blob/master/LICENSE)
+
 - 下面给出几个概念:
   
   - `搜索区域(The Search Area)`：图中的搜索区域被划分为了简单的二维数组,数组每个元素对应一个小方格,当然我们也可以将区域等分成是五角星,矩形等.通常将一个单位的中心点称之为`搜索区域节点(Node)`.
