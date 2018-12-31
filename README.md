@@ -14,7 +14,9 @@ A*自动寻路算法
   
   - `启发函数(Heuristics Function)`：H为启发函数,也被认为是一种试探,由于在找到唯一路径前,我们不确定在前面会出现什么障碍物,因此用了一种计算H的算法,具体根据实际场景决定.在我们简化的模型中,H采用的是传统的`曼哈顿距离(Manhattan Distance)`,也就是横纵向走的距离之和.
 
-  ![Image text](https://github.com/Perry961002/Dynamic_Demonstration_Of_A-Start_Algorithm/blob/master/AStart.png?raw=true)
+<p align="center">
+  <img src="https://github.com/Perry961002/Dynamic_Demonstration_Of_A-Start_Algorithm/blob/master/AStart.png?raw=true" lt="a"/>
+</p>
   
 - 比较官方的伪算法描述如下：
 
